@@ -21,9 +21,9 @@
   "developer": "Raganork / @souravkl11",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/anfaztt9999/Raganork"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/anfaztt9999/Raganork#readme",
   "dependencies": {
     "raganork-bot": "1.6.8",
     "supervisor": "0.12.0",
